@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 
-namespace Imterpretador2022.ConsoleApp
+namespace Interpretador2022.ConsoleApp
 {
     internal class Program
     {
